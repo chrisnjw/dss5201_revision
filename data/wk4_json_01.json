@@ -1,0 +1,11 @@
+[
+  {
+    "first_name": "John",
+    "last_name": "Smith",
+    "is_alive": true,
+    "age": 27,
+    "city": "New York",
+    "state": "NY",
+    "children": "Catherine, Thomas, Trevor"
+  }
+]

@@ -1,0 +1,3 @@
+height	sex	earnings
+189	male	50000
+166	female	60000
